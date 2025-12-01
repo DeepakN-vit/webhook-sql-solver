@@ -24,7 +24,7 @@ public class AppStartupRunner implements CommandLineRunner {
         GenerateWebhookRequest req = new GenerateWebhookRequest(
                 "Deepak N",
                 "22BCE8822",
-                "nagarajank14111974@gmail.com"
+                "deepak.22bce8822@vitapstudent.ac.in"
         );
 
         // Step 1: Call API to generate webhook
