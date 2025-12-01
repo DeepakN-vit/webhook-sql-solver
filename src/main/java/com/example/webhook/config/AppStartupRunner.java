@@ -22,9 +22,9 @@ public class AppStartupRunner implements CommandLineRunner {
     public void run(String... args) throws Exception {
 
         GenerateWebhookRequest req = new GenerateWebhookRequest(
-                "John Doe",
-                "REG12347",
-                "john@example.com"
+                "Deepak N",
+                "22BCE8822",
+                "nagarajank14111974@gmail.com"
         );
 
         // Step 1: Call API to generate webhook
